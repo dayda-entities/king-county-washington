@@ -2,8 +2,8 @@
 title: >-
   2011 Special February - Election Results by precinct (complete eCanvass
   dataset)
-created: '2020-11-10T16:58:48.074155'
-modified: '2020-11-10T16:58:48.074166'
+created: '2020-11-10T16:58:36.723877'
+modified: '2020-11-10T16:58:36.723887'
 state: active
 type: dataset
 tags:
@@ -16,8 +16,8 @@ tags:
   - Special
 groups:
   - Local Government
-csv_url: 'https://data.kingcounty.gov/api/views/ycry-3r2f/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.kingcounty.gov/api/views/ycry-3r2f/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.kingcounty.gov/api/views/dx5r-rh67/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.kingcounty.gov/api/views/dx5r-rh67/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
