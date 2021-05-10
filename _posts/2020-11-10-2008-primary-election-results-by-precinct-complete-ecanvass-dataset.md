@@ -1,7 +1,7 @@
 ---
 title: 2008 Primary - Election Results by precinct (complete eCanvass dataset)
-created: '2020-11-10T16:58:33.896332'
-modified: '2020-11-10T16:58:33.896339'
+created: '2020-11-10T16:58:32.460948'
+modified: '2020-11-10T16:58:32.460955'
 state: active
 type: dataset
 tags:
@@ -14,8 +14,8 @@ tags:
   - Results
 groups:
   - Local Government
-csv_url: 'https://data.kingcounty.gov/api/views/9ycg-yemn/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.kingcounty.gov/api/views/9ycg-yemn/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.kingcounty.gov/api/views/5jc7-9665/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.kingcounty.gov/api/views/5jc7-9665/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
