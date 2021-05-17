@@ -1,18 +1,19 @@
 ---
-title: Employee Giving Statistics - 2015
-created: '2020-11-10T16:58:45.066951'
-modified: '2020-11-10T16:58:45.066962'
+title: Employee Giving Statistics 2017
+created: '2020-11-10T16:58:38.406796'
+modified: '2020-11-10T16:58:38.406803'
 state: active
 type: dataset
 tags:
   - Charity
-  - Donations
-  - Giving
+  - Employee Giving
 groups:
   - Local Government
-csv_url: 'https://data.kingcounty.gov/api/views/uyzz-vujy/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.kingcounty.gov/api/views/uyzz-vujy/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.kingcounty.gov/api/views/gw49-3k7u/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.kingcounty.gov/api/views/gw49-3k7u/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Charitable contributions from King County employees
+King County Employee Pledges by Department and Division.  Annual Giving Drive 2017.
+
+https://kingcounty.gov/audience/employees/giving/giving-stats.aspx
