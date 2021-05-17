@@ -1,7 +1,7 @@
 ---
-title: 2010 General - Election Results by precinct (complete eCanvass dataset)
-created: '2020-11-10T16:58:39.199246'
-modified: '2020-11-10T16:58:39.199256'
+title: 2010 General - Election results - State Senator LD 41 recount
+created: '2020-11-10T16:58:33.988640'
+modified: '2020-11-10T16:58:33.988650'
 state: active
 type: dataset
 tags:
@@ -11,12 +11,13 @@ tags:
   - Elections
   - General
   - Precinct
+  - Recount
   - Results
 groups:
   - Local Government
-csv_url: 'https://data.kingcounty.gov/api/views/jet5-cigp/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.kingcounty.gov/api/views/jet5-cigp/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.kingcounty.gov/api/views/a29e-gcic/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.kingcounty.gov/api/views/a29e-gcic/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-November 2010 election; final/official results by precinct.
+November 2010 general election - recount dataset for the State Senator Legislative District 41
