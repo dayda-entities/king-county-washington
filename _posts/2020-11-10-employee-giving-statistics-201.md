@@ -1,7 +1,7 @@
 ---
-title: Employee Giving Statistics 2017
-created: '2020-11-10T16:58:38.406796'
-modified: '2020-11-10T16:58:38.406803'
+title: Employee Giving Statistics 2018
+created: '2020-11-10T16:58:31.954781'
+modified: '2020-11-10T16:58:31.954791'
 state: active
 type: dataset
 tags:
@@ -9,11 +9,9 @@ tags:
   - Employee Giving
 groups:
   - Local Government
-csv_url: 'https://data.kingcounty.gov/api/views/gw49-3k7u/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.kingcounty.gov/api/views/gw49-3k7u/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.kingcounty.gov/api/views/4f74-t4ni/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.kingcounty.gov/api/views/4f74-t4ni/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-King County Employee Pledges by Department and Division.  Annual Giving Drive 2017.
-
-https://kingcounty.gov/audience/employees/giving/giving-stats.aspx
+Employee Giving Statistics for 2018
