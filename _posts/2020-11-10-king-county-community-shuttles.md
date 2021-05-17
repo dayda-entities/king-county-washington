@@ -1,7 +1,7 @@
 ---
-title: King County Community Shuttles
-created: '2020-11-10T16:58:36.067232'
-modified: '2020-11-10T16:58:36.067243'
+title: King County Community Shuttles - Hyde Only
+created: '2020-11-10T16:58:37.773919'
+modified: '2020-11-10T16:58:37.773930'
 state: active
 type: dataset
 tags:
@@ -13,9 +13,9 @@ tags:
   - Transportation
 groups:
   - Local Government
-csv_url: 'https://data.kingcounty.gov/api/views/xhy5-rgaa/rows.csv?accessType=DOWNLOAD'
-json_url: 'https://data.kingcounty.gov/api/views/xhy5-rgaa/rows.json?accessType=DOWNLOAD'
+csv_url: 'https://data.kingcounty.gov/api/views/7uhs-kjwf/rows.csv?accessType=DOWNLOAD'
+json_url: 'https://data.kingcounty.gov/api/views/7uhs-kjwf/rows.json?accessType=DOWNLOAD'
 layout: post
 
 ---
-Service areas of community shuttle programs across the county. Shuttle programs are supported by King County Metro's Community Access Transportation program.
+Service areas of the Hyde community shuttle program across the county. The Hyde Shuttle program is supported by King County Metro's Community Access Transportation program.
